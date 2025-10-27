@@ -14,10 +14,10 @@
 **Machine Learning Mastery (MLM-101)** is a full-phase educational program designed to take learners from the absolute basics of machine learning theory and Python programming to advanced topics like Deep Learning, NLP, and model deployment.
 
 This repository includes:
-📘 Handouts (lecture summaries and notes)
-💻 Source code examples and projects
-🧩 Practical labs and exercises
-🚀 Deployment guides (Streamlit & Cloud)
+- 📘 Handouts (lecture summaries and notes)
+- 💻 Source code examples and projects
+- 🧩 Practical labs and exercises
+- 🚀 Deployment guides (Streamlit & Cloud)
 
 All materials are written in **simple and clear language** for easy understanding and self-learning.
 
