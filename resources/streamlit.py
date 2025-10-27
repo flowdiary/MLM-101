@@ -1,1 +1,1 @@
-Streamlit: https://www.datacamp.com/tutorial/streamlit
+https://www.datacamp.com/tutorial/streamlit
