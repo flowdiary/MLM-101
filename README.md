@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Frameworks](https://img.shields.io/badge/Libraries-NumPy%2C%20Pandas%2C%20Matplotlib%2C%20Scikit--learn%2C%20Streamlit2C%20Keras/Tensorflow-orange)
+![Frameworks](https://img.shields.io/badge/Libraries-NumPy%2C%20Pandas%2C%20Matplotlib%2C%20Scikit--learn%2C%20Streamlit%2C%20Keras/Tensorflow-orange)
 
 ---
 
