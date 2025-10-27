@@ -1,4 +1,4 @@
-# 🤖 Flowdiary Machine Learning Mastery Course (MLM-101)
+# 🤖 Flowdiary Machine Learning Mastery Course
 
 *A complete hands-on journey from Python basics to Deep Learning, NLP, and AI deployment.*
 
