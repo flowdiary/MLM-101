@@ -1,4 +1,4 @@
-# 🌟 FlowDiary Machine Learning Mastery (MLM-101)
+# 🤖 Flowdiary Machine Learning Mastery Course (MLM-101)
 
 *A complete hands-on journey from Python basics to Deep Learning, NLP, and AI deployment.*
 
@@ -73,31 +73,29 @@ All materials are written in **simple and clear language** for easy understandin
 - Model Evaluation & Performance Metrics  
 - Decision Tree & Linear Regression Models  
 - Ensemble & Gradient Boosting Algorithms  
-- Hyperparameter Tuning  
-
-### **Phase 7 – Machine Learning Projects**
+- Hyperparameter Tuning
+  
+### **Machine Learning Projects**
 - 🧾 Project I – Sales Forecasting  
 - 💳 Project II – Credit Card Fraud Detection  
 - 🎓 Project III – Course Recommendation  
 
-### **Phase 8 – Model Deployment**
+### **Model Deployment**
 - Streamlit Basics  
 - Building Streamlit Projects  
 - Hosting on Streamlit Cloud  
 
-### **Phase 9 – Deep Learning & NLP**
+### **Phase 7, 8, 9 – Deep Learning & NLP**
 - Deep Learning Fundamentals  
 - FeedForward & CNN Architectures  
 - Transfer Learning (ResNet, VGG16)  
 - NLP & Sentiment Analysis Labs  
 - Named Entity Recognition & Sequence Models  
-
-### **Phase 10 – RAG & Beyond**
 - Retrieval-Augmented Generation (RAG) Concepts  
 - RAG Lab Implementation  
-- Final Deployment, Summary & Recommendations  
 
----
+### **Phase 10 – Conclusion**
+- Final Deployment, Summary & Recommendations  
 
 ## 🚀 Getting Started
 
@@ -106,16 +104,12 @@ All materials are written in **simple and clear language** for easy understandin
 - Jupyter Notebook / VS Code  
 - Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `streamlit`
 
-### Setup Instructions
-```bash
-# Clone the repository
-git clone https://github.com/flowdiary/MLM-101.git
-cd MLM-101
+## 👨‍🏫 Tutors
+1. Muhammad Auwal Ahmad
+Cofounder, Flowdiary
+📧 muhammad@flowdiary.ai
 
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # for macOS/Linux
-venv\Scripts\activate     # for Windows
+2. Abdullahi Ahmad Babura,
+MLM Tutor Flowdiary
+📧 abdullahi@flowdiary.ai
 
-# Install required packages
-pip install -r requirements.txt
