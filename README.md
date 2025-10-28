@@ -118,7 +118,7 @@ All materials are written in **simple and clear language** for easy understandin
 - Lecture 63: Deployment II - Building Streamlit Projects
 - Lecture 64: Deployment III - Hosting on Streamlit Cloud
 
-### **Model Deployment**
+### **Resources and Recommendations**
 - Lecture 65: Vibe Coding (Coding in the Age of AI)
 - Lecture 66: Project and Learning Resources
   
@@ -160,9 +160,7 @@ All materials are written in **simple and clear language** for easy understandin
 - Libraries: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `streamlit`, `keras/tensorflow`
 
 ## 👨‍🏫 Tutors
-1. Muhammad Auwal Ahmad
-- Cofounder, Flowdiary
+1. Muhammad Auwal Ahmad, Cofounder, Flowdiary
 
-2. Abdullahi Ahmad Babura,
-- MLM Tutor, Flowdiary
+2. Abdullahi Ahmad Babura, MLM Tutor, Flowdiary
 
