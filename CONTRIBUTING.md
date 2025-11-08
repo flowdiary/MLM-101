@@ -21,7 +21,7 @@ The following is a set of guidelines for contributing to this course repository.
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by our commitment to creating a welcoming and inclusive environment. By participating, you are expected to uphold this standard. Please report unacceptable behavior to support@flowdiary.com.ng.
+This project and everyone participating in it is governed by our commitment to creating a welcoming and inclusive environment. By participating, you are expected to uphold this standard. Please report unacceptable behavior to hello@flowdiary.ai.
 
 **Be respectful, be kind, be collaborative.**
 
@@ -399,7 +399,7 @@ refactor: Reorganize notebooks into topic folders
 
 ### Getting Help
 
-- 📧 **Email:** support@flowdiary.com.ng
+- 📧 **Email:** hello@flowdiary.ai
 - 💬 **Discussions:** [GitHub Discussions](https://github.com/flowdiary/MLM-101/discussions)
 - 🐛 **Issues:** [GitHub Issues](https://github.com/flowdiary/MLM-101/issues)
 
