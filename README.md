@@ -2,13 +2,13 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
-[![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen)](https://flowdiary.com.ng/course/MLM-101)
+[![Level](https://img.shields.io/badge/Level-Beginner%20to%20Advanced-brightgreen)](https://flowdiary.ai/course/MLM-101)
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/flowdiary/MLM-101)
 
 > **A comprehensive, hands-on machine learning course from fundamentals to production deployment.**  
 > Master Python, NumPy, Pandas, Scikit-learn, Deep Learning, NLP, and model deployment with real-world projects.
 
----
+--- 
 
 ## 📚 Table of Contents
 
@@ -53,7 +53,7 @@
 - 🌐 **Deployment Guides** for Streamlit, FastAPI, Gradio, and Docker
 - 📊 **Datasets** for practical exercises
 
-**Course Website:** [https://flowdiary.com.ng/course/MLM-101](https://flowdiary.com.ng/course/MLM-101)
+**Course Website:** [https://flowdiary.ai/course/MLM-101](https://flowdiary.ai/course/MLM-101)
 
 ### ✨ What's New (November 2025)
 
@@ -838,7 +838,7 @@ uvicorn app:app --port 8001
 
 - Check `docs/guides/troubleshooting.md` for detailed solutions
 - Open an issue: [GitHub Issues](https://github.com/flowdiary/MLM-101/issues)
-- Contact instructors: [Flowdiary Support](https://flowdiary.com.ng)
+- Contact instructors: [Flowdiary Support](https://flowdiary.ai)
 
 ---
 
@@ -905,10 +905,10 @@ Under the conditions:
 
 ## 📧 Contact
 
-- **Website:** [https://flowdiary.com.ng](https://flowdiary.com.ng)
-- **Course Page:** [https://flowdiary.com.ng/course/MLM-101](https://flowdiary.com.ng/course/MLM-101)
+- **Website:** [https://flowdiary.ai](https://flowdiary.ai)
+- **Course Page:** [https://flowdiary.ai/course/MLM-101](https://flowdiary.ai/course/MLM-101)
 - **GitHub:** [https://github.com/flowdiary/MLM-101](https://github.com/flowdiary/MLM-101)
-- **Email:** support@flowdiary.com.ng
+- **Email:** hello@flowdiary.ai
 
 ---
 
@@ -919,6 +919,6 @@ Under the conditions:
 [![GitHub stars](https://img.shields.io/github/stars/flowdiary/MLM-101?style=social)](https://github.com/flowdiary/MLM-101/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/flowdiary/MLM-101?style=social)](https://github.com/flowdiary/MLM-101/network/members)
 
-Made by [Flowdiary](https://flowdiary.com.ng)
+Made by [Flowdiary](https://flowdiary.ai)
 
 </div>
