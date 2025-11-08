@@ -1,0 +1,73 @@
+# Root requirements file for Machine Learning Mastery (MLM-101)
+# Compatible with Python 3.8+
+
+# Core Data Science Libraries
+numpy>=1.21.0,<2.0.0
+pandas>=2.0.0,<3.0.0
+matplotlib>=3.5.0,<4.0.0
+seaborn>=0.12.0,<1.0.0
+
+# Machine Learning
+scikit-learn>=1.2.0,<2.0.0
+joblib>=1.2.0,<2.0.0
+
+# Deep Learning
+tensorflow>=2.10.0,<3.0.0; platform_machine != 'arm64'
+tensorflow-macos>=2.10.0,<3.0.0; platform_machine == 'arm64' and sys_platform == 'darwin'
+tensorflow-metal>=0.6.0; platform_machine == 'arm64' and sys_platform == 'darwin'
+keras>=2.10.0,<3.0.0
+
+# NLP Libraries
+nltk>=3.8.0,<4.0.0
+spacy>=3.5.0,<4.0.0
+transformers>=4.25.0,<5.0.0
+sentencepiece>=0.1.99
+
+# RAG and LLM
+langchain>=0.1.0,<1.0.0
+langchain-community>=0.0.10,<1.0.0
+chromadb>=0.4.0,<1.0.0
+faiss-cpu>=1.7.4; platform_machine != 'x86_64'
+faiss-gpu>=1.7.4; platform_machine == 'x86_64'
+pypdf>=3.17.0,<4.0.0
+openai>=1.0.0,<2.0.0
+
+# Web Frameworks & Deployment
+streamlit>=1.28.0,<2.0.0
+fastapi>=0.104.0,<1.0.0
+uvicorn[standard]>=0.24.0,<1.0.0
+gradio>=4.0.0,<5.0.0
+pydantic>=2.0.0,<3.0.0
+
+# Jupyter & Notebooks
+jupyter>=1.0.0,<2.0.0
+jupyterlab>=4.0.0,<5.0.0
+ipykernel>=6.25.0,<7.0.0
+notebook>=7.0.0,<8.0.0
+ipywidgets>=8.0.0,<9.0.0
+
+# Visualization
+plotly>=5.17.0,<6.0.0
+pillow>=10.0.0,<11.0.0
+
+# Utilities
+python-dotenv>=1.0.0,<2.0.0
+tqdm>=4.66.0,<5.0.0
+requests>=2.31.0,<3.0.0
+python-multipart>=0.0.6,<1.0.0
+
+# Data Validation
+pydantic>=2.0.0,<3.0.0
+
+# Testing (optional, for contributors)
+pytest>=7.4.0,<8.0.0
+pytest-cov>=4.1.0,<5.0.0
+
+# Code Quality (optional, for contributors)
+black>=23.7.0,<24.0.0
+flake8>=6.1.0,<7.0.0
+isort>=5.12.0,<6.0.0
+
+# Development Tools (optional)
+nbconvert>=7.8.0,<8.0.0
+nbformat>=5.9.0,<6.0.0

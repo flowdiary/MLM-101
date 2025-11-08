@@ -1,0 +1,3 @@
+# This directory will contain trained models
+# Files are gitignored to save space
+# Run notebooks or scripts to generate models
