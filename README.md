@@ -887,7 +887,10 @@ Under the conditions:
 **Course Instructors:**
 
 - **Muhammad Auwal Ahmad** - Co-founder, Flowdiary
-- **Abdullahi Ahmad Babura** - MLM Tutor, Flowdiary
+- **Abdullahi Ahmad** - MLM Tutor, Flowdiary
+  - 🌐 [Website](https://abdull6771.github.io/aahmad.github.io/)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/abdullahi-ahmad-babura-57653b205/)
+  - 📧 [Email](mailto:abdulll8392@gmail.com)
 
 **Contributors:**
 
